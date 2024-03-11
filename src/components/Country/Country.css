@@ -1,0 +1,17 @@
+.country{
+  border: 2px solid tomato;
+  padding: 15px;
+  text-align: center;
+  border-radius: 50px;
+}
+.country img{
+  border-radius:100%;
+  width: 100px;
+  margin-top: 10px;
+}
+
+.country button{
+  color: rgb(7, 6, 6);
+  background-color: rgb(187, 209, 164);
+  border-radius: 20px;
+}
